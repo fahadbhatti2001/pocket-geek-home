@@ -14,6 +14,7 @@ export default function Header() {
                   <p className="font-medium text-primary-1">File a Claim</p>
               </div>
               <span className="h-8 w-px bg-gray-300"></span>
+              <img src="/images/drop.png" className="w-10" />
             </div>
         </div>
     </nav>
