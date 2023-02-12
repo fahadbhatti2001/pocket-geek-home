@@ -1,16 +1,14 @@
 import React from 'react'
-import Footer from './Footer'
-import Header from './Header'
-import Home from './Home'
+import { Routes, Route } from "react-router-dom";
+import { Home, Claim } from "@/Components"
 
-export default function App() {
+export const App = () => {
   return (
     <>
-      <Header/>
-
-      <Home/>
-
-      <Footer/>
+      <Routes>
+        <Route path="/" element={<Home/>} />
+        <Route path="/claim" element={<Claim/>} />
+      </Routes>
     </>
   )
 }
