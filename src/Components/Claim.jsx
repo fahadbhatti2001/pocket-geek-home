@@ -9,7 +9,7 @@ const headerLinks = [
     name: "FAQs", path: "/", cstStyle: "text-primary-1"
   },
   {
-    name: "Contact Us", path: "/", cstStyle: "text-primary-1"
+    name: "Contact Us ", path: "/", cstStyle: "text-primary-1"
   },
   {
     name: "File a Claim", path: "/claim", cstStyle: "text-primary-1"
