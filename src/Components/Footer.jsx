@@ -13,7 +13,7 @@ export const Footer = () => {
         </div>
         <div className="w-full flex md:flex-row flex-col-reverse justify-between items-center text-white mt-4 gap-4">
           <p className="text-xs font-medium">
-            © 2022 Assurant, Inc. All rights reserved.
+            © 2022 Assurant, Inc. All rights reserved
           </p>
           <div className="text-sm flex justify-center md:gap-6 gap-2">
             <a href="" className="underline">Support Details</a>
