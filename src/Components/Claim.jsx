@@ -301,7 +301,7 @@ export const Claim = () => {
                         <div className="w-full">
                           <div className="flex md:flex-row flex-col justify-between items-center py-2">
                             <p className="text-sm font-bold text-gray-600">Fulfillment information</p>
-                            <p className="text-sm font-bold text-primary-1">Need a Different Repair Option</p>
+                            <p className="text-sm font-bold text-primary-1">Need a Different Repair Option.</p>
                           </div>
                         </div>
                         <div className="w-full">
